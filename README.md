@@ -15,7 +15,7 @@ Follow the instructions below to download and run the app on your local machine.
    
 2. Install the project dependencies:
    ```bash
-   npm install
+   npm install --legacy-peer-deps
 
 3. Start the development server:
    ```bash
