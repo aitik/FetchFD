@@ -14,12 +14,12 @@ Follow the instructions below to download and run the app on your local machine.
    git clone https://github.com/aitik/FetchFD.git
    
 2. Install the project dependencies:
-
+   ```bash
    npm install
 
 3. Start the development server:
-
-  npm start
+   ```bash
+   npm start
 
 4. Open your web browser and go to http://localhost:3000 to view the app.
 
