@@ -23,6 +23,6 @@ Follow the instructions below to download and run the app on your local machine.
 
 4. Open your web browser and go to http://localhost:3000 to view the app.
 
-And there you can select one or more dog breeds from the dropdown and see images of your selected breeds. 3 images per breed and the label of the breed should dinamically show up/disappear from the gallery so you don't have to refresh the page.
+And there you can select one or more dog breeds from the dropdown and see images of your selected breeds. 3 images per breed and the label of the breed should dynamically show up/disappear from the gallery as you select/deselect your options so you don't have to refresh the page.
 
 
